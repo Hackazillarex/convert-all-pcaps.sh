@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# convert-all-pcaps_debug.sh
+# convert-all-pcaps.sh
 # Converts only PCAPs that produce valid 22000 entries; creates per-file logs for debugging.
-# By Hackazillarex (improved)
+# By Hackazillarex 
 
 set -euo pipefail
 shopt -s nullglob
